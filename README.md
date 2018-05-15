@@ -1,1 +1,2 @@
-# pmt_2dsens_plotting
+# Plotting PMT uniformity in polar coordinate
+-Have trouble for the apperance of polar coordinates with ROOT? Here's a solution...
