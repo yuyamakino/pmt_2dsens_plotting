@@ -1,2 +1,4 @@
 # Plotting PMT uniformity in polar coordinate
--Have trouble for the apperance of polar coordinates with ROOT? Here's a solution...
+-For those who don't like the apperance of polar coordinates with ROOT
+-Requirements
+--Works, at least, with python 2.7.10
